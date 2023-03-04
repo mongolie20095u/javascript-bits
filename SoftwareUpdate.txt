@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Fix Yolo 8.0.206 scale bug (#7821)
