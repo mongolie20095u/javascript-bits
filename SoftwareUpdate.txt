@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add new YOLOv8 OBB model metrics (#7379)
