@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Fix RTDETR generate anchor grid out of boundary (#7247)
