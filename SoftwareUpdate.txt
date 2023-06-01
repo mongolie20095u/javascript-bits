@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Update HTTP to HTTPS (#7548)
