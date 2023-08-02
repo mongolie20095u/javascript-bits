@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
