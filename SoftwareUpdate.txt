@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Use pathlib in DOTA ops (#7552)
